@@ -10,3 +10,5 @@ Por este arquivo é possível usar planilhas do Excel para listar, inserir e exc
 Onde se encontram todos os dados coletados e registrados da empresa.
 
 # Para mais informações ler os manuais dos arquivos em questão!
+
+yt
