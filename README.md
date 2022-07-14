@@ -1,5 +1,5 @@
 # ERP Oficina Design
-Certamente esse é o projeto que mais tenho orgulho. Quando criei minha empresa de móveis precisei de uma solução para organizar pedidos, estoques, clientes, planos de corte, ordens de produção e entre outras coisas.
+Certamente esse é um dos projetos que mais tenho orgulho. Quando criei minha empresa de móveis precisei de uma solução para organizar pedidos, estoques, clientes, planos de corte, ordens de produção e entre outras coisas.
 
 O projeto de baseia em 2 (dois) arquivos:
 # Sistema.xlsm
